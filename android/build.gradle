@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "com.shekarmudaliyar.social_share_example"
+    namespace "com.shekarmudaliyar.social_share"
     compileSdkVersion 28
 
     sourceSets {
